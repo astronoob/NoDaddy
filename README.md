@@ -11,5 +11,5 @@ ability to conduct business. Users of this software
 may use the information gathered to make informed consumer
 decisions.
 
-To install, simply load [nodaddy.crx](https://raw.github.com/astronoob/nodaddy/master/nodaddy.crx) 
-in Chrome. Alerts will automatically appear during normal browsing.
+To install, [CLICK AWAY TO YOUR HEART'S CONTENT](https://raw.github.com/astronoob/nodaddy/master/nodaddy.crx).
+Alerts will automatically appear during normal browsing.
